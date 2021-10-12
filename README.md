@@ -22,4 +22,4 @@ What things you need to install the software and how to install them.
 
 ## Authors
 
-    * **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+    * **We Zou** - *wz* - [YourWebsite](https://example.com/)
