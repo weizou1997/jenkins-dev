@@ -4,7 +4,7 @@ Learning to track my code for jenkins development
 
 One paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
-
+learn how to version control projects with git. 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
